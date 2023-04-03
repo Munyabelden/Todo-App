@@ -26,6 +26,6 @@
       "compenents/",
       "logic.js/",
       "setupTest.js",
-      "App.js"
+      "vite.config.js"
     ]
   }
