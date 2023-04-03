@@ -23,7 +23,7 @@
     "ignorePatterns": [
       "dist/",
       "build/",
-      "components/",
+      "compenents/",
       "logic.js/",
       "setupTest.js",
       "App.js"

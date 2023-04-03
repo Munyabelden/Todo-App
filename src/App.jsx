@@ -1,4 +1,4 @@
-import './App.css'
+import './App.css';
 import Todo from './compenents/todo';
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <Todo />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
